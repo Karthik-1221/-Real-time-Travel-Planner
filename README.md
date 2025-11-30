@@ -35,7 +35,7 @@ travel_planner/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/travel-planner.git
+git clone https://github.com/Karthik-1221/-Real-time-Travel-Planner.git
 cd travel-planner
 ```
 2. Create a virtual environment

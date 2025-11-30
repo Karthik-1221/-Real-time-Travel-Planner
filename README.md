@@ -16,9 +16,17 @@ This demo uses a **mock weather API** (instead of MCP) to simulate realistic con
 
 ## Project Structure
 travel_planner/ 
+
+
 │── app.py              # Main Streamlit app 
+
+
 │── .env                # Environment variables (GOOGLE_API_KEY) 
+
+
 │── requirements.txt    # Python dependencies 
+
+
 │── README.md           # Project documentation
 
 ---

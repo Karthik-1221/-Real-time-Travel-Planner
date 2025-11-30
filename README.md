@@ -41,14 +41,23 @@ cd travel-planner
 2. Create a virtual environment
 
 python -m venv venv
+
+
 source venv/bin/activate   # Mac/Linux
+
+
 venv\Scripts\activate      # Windows
 
+
+
 3. Install dependencies
+
+
 pip install -r requirements.txt
 
 
-4. Set up environment variables
+5. Set up environment variables
+
 Create a .env file in the project root
 
 GOOGLE_API_KEY=your_google_api_key_here
@@ -56,9 +65,11 @@ GOOGLE_API_KEY=your_google_api_key_here
 
  Usage
 Run the Streamlit app:
+
 streamlit run app.py
 
-Open the app in your browser at:   http://localhost:8501
+Open the app in your browser at:
+http://localhost:8501
 
 Example
 - Input: Helsinki
